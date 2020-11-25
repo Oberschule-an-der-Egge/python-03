@@ -25,7 +25,7 @@ Schreibe dein Programm in die Datei `program.py`
 
 **String-Formattierung**
 
-Formatted Strings ("f-strings") für die Textausgabe:
+Formatted Strings ("f-strings") für die Textausgabe mit Variablen:
 
 `f("Ich bin {age} Jahre alt.")`
 
