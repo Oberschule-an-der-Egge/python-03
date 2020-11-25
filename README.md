@@ -23,6 +23,12 @@ Schreibe dein Programm in die Datei `program.py`
         
         return WERT
 
+**String-Formattierung**
+
+Formatted Strings ("f-strings") für die Textausgabe:
+
+`f("Ich bin {age} Jahre alt.")`
+
 **Zahlen als Datum**
 
 Das modul `datetime` stellt Methoden bereit, um mit Datumsobjekten zu arbeiten.
