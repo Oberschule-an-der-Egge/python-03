@@ -1,6 +1,6 @@
 # Projekt 3: Geburtstag
 
-![image](03-screenshot-1.png)
+![image](Screenshot-1.png)
 
 Versucht, das abgebildete Programm selbst zu bauen. Der **weiße** Text ist die Ausgabe des Programms. Der **grüne** Text wird vom Benutzer eingegeben.
 
